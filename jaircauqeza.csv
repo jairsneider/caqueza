@@ -1,0 +1,31 @@
+node1,node2,trail,distance,color,estimate
+S Rafael,R Buen,rs,0.3,,0
+R Buen,R Rincon,rs,0.21,,0
+R Rincon,B Torre,rs,0.11,,0
+B Torre,C German,rs,0.18,,0
+C German,M Y A,rs,0.21,,0
+M Y A,E Policia,rs,0.12,,0
+E Policia,R Sultana,rs,0.39,,0
+R Sultana,Girasoles,rc,0.7,,0
+Girasoles,C Hato G,rc,0.04,,0
+C Hato G,I Inmaculada,rc,0.15,,0
+I Inmaculada,S Testtigos,rc,0.13,,0
+S Testtigos,Piccolo,rc,0.23,,1
+Piccolo,Caqueza C,rc,0.14,,0
+Caqueza C,B Farro,rc,0.36,,0
+B Farro,Montallantas,rt,0.3,,0
+Montallantas,Dona Flor,rt,0.16,,0
+Dona Flor,B Bogota,rt,0.04,,1
+B Bogota,P Crema,rt,0.09,,0
+P Crema,V Nepo,rt,0.05,,1
+V Nepo,C Ledy,rt,0.06,,0
+C Ledy,P Lanses,rt,0.19,,0
+P Lanses,P Bolivariana,rt,0.18,,0
+P Bolivariana,R Valeria,rh,0.24,,0
+R Valeria,Uniminuto,rh,0.12,,0
+Uniminuto,ESSO,rh,0.06,,0
+ESSO,H Puerta L,rh,0.07,,1
+H Puerta L,C Departamental,rh,0.04,,1
+C Departamental,Interrapidisimo,rh,0.09,,0
+Interrapidisimo,Coma Pan,rh,0.06,,0
+Coma Pan,,rd,0.14,,0
